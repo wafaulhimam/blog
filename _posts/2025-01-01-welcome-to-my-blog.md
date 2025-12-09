@@ -2,12 +2,12 @@
 title: Welcome to My Blog
 date: 2025-01-01 10:00:00 +0700
 categories: [Personal, Announcement]
-tags: [intro, chirpy, jekyll]
+tags: [intro]
 ---
 
 Hello! 👋
 
-Welcome to my new blog powered by **Jekyll + Chirpy** and hosted on **GitHub Pages**.
+Welcome to my new blog!
 
 I created this blog to share:
 
