@@ -39,4 +39,4 @@ Dicontohkan pada di atas, huruf **fa** mengitari huruf **ya**, begitu pula huruf
 Temen-temen bisa contohkan mungkin yang serupa di dalam Al-Qur'an?  
 Atau bisa mencontohkan di bahasa lain yang bisa memiliki makna seperti ini?
 
-**Coba bisa komen di bawah!**
+**Coba bisa komen di bawah!** 
