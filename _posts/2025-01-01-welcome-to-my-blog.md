@@ -18,4 +18,3 @@ I created this blog to share:
 
 More posts coming soon. Stay tuned! 🚀
 
-If you want to build your own blog like this, feel free to ask — I’ll help you step-by-step.
