@@ -6,8 +6,6 @@ tags: [quotes, dailyquotes, quotesharian, nasihatdiri, doa, doaharian, wafaulh, 
 layout: post
 ---
 
-# Saat Tertimpa Musibah
-
 Ketika musibah menimpa, hati sering gelisah dan gundah. Rasa nelangsa, kecewa, sedih, bahkan serasa dunia runtuh. Tak jarang timbul perasaan bahwa Allah tidak adil. “Mengapa aku diberikan cobaan seperti ini? Apa salahku hingga menerima musibah sebesar ini?”
 
 Perasaan dan ucapan semacam itu sering terbersit, bahkan terlontar dari lisan kita. Padahal Rasulullah Shallallahu ‘alaihi wasallam menyampaikan sabda Allah dalam hadits qudsi:
