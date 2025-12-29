@@ -5,8 +5,6 @@ categories: [Programming, Islam, Muslim]
 tags: [programming, Islam, muslim]
 ---
 
-# Palindrom, Antara Akal, Nasihat, dan Mujizat
-
 Competitive programming seringkali masih dijadikan patokan ketika wawancara, live code maupun take home test. Contoh kasus yang sering masuk dalam tes adalah **Palindrom**.  
 Palindrom menurut KBBI adalah _kata, rangkaian kata, atau bilangan yang terbaca sama baik dari depan maupun belakang_, contoh: **ana, tamat, katak, kodok, haji ijah**.  
 Tentu dari kawan-kawan di sini yang berprofesi sebagai programmer sering atau pernah minimal sekali mengerjakan tipe soal seperti ini.
