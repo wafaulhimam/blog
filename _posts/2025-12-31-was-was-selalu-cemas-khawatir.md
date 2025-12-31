@@ -34,4 +34,5 @@ Dibaca ketika pagi dan petang, semoga kita semua selalu dalam lindungan dan petu
 **Aamiin ya Rabbal 'aalamiin.**
 
 ---
-*#quotes #dailyquotes #quotesharian #nasihatdiri #doa #doaharian #wafaulh #makkah #madinah #umrah*
+
+_#quotes #dailyquotes #quotesharian #nasihatdiri #doa #doaharian #wafaulh #makkah #madinah #umrah_
