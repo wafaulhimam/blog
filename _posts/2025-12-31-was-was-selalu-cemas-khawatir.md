@@ -18,6 +18,8 @@ tags:
 layout: post
 ---
 
+![Was-was dan Selalu Cemas](assets/2025-12-31-was-was-selalu-cemas-khawatir.png)
+
 Di dunia ini, tak jarang kita merasa khawatir, cemas, maupun risau terhadap masa yang akan datang. Besok makan apa, bagaimana hari tua nanti, lulus atau tidak dengan studi maupun tes mendapatkan pekerjaan.
 
 Kadangkala kita juga trauma terhadap masa lalu yang pernah kita lalui. Sedih ditinggalkan orang yang dikasihi, cemas karena pernah didzolimi, atau kegagalan-kegagalan masa lalu yang masih belum bisa hilang.
